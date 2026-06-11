@@ -37,6 +37,8 @@ Within `index.html`, the key data structures are `SBD_PRINCIPLES`, `CAF_OUTCOMES
 
 ## Licensing and attribution
 
+The application code is released under the [MIT License](LICENSE) — contributions welcome.
+
 The Secure Controls Framework content embedded in this tool is © Secure Controls Framework Council, LLC and is redistributed under the [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/) licence. NCSC CAF and UK Government Secure by Design materials are used under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 This tool is not affiliated with or endorsed by GOV.UK, the NCSC or the Secure Controls Framework Council. It does not constitute legal advice — confirm applicable legal obligations with your data protection and legal advisers.
